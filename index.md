@@ -10,4 +10,4 @@ title: Sinyata
 * It's a Fast Server
 * It's easy to use
 
-## {{site.posts.first.title}}
+
